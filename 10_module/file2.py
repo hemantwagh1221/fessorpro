@@ -1,0 +1,29 @@
+
+# import file1
+
+# print(file1.a)
+# print(file1.demo())
+
+# b1=file1.Sample()
+# print(b1.t1)
+
+
+# import gxfggguvgcfxytdttcf as f1
+# print(f1.a)
+# print(f1.demo())
+
+# b1=f1.Sample()
+# print(b1.t1)
+
+from gxfggguvgcfxytdttcf import a,demo
+
+print(a)
+print(demo())
+
+
+import new.file3 as f3
+print(f3.symbol)
+
+
+#linrary,module ,package
+#download/install
